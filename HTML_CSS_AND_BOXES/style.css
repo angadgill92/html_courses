@@ -1,0 +1,19 @@
+body {
+  background : teal;
+}
+.title{
+  font-family : Helvetica;
+  text-align : center;
+  
+  
+}
+
+.description{
+  color : #787878 ;
+  font-family : Helvetica;
+  text-align : justify;
+  background-color : #f0f0f0;
+  border-style : none;
+  
+
+}
