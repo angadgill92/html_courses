@@ -1,8 +1,13 @@
 .title{
   font-family : Helvetica;
-  font-color : white ;
-  text-align : center;
+  color: #eee;
+  text-align : left;
   background-color: #33BEBE;
+  border-radius: 2px;
+  padding-left:10px;
+  padding-top: 3px; 
+  padding-bottom: 3px;
+  box-shadow: 
   
   
 }
@@ -13,7 +18,11 @@
   text-align : justify;
   background-color : #f0f0f0;
   border-style : none;
+  border-width: 30px -moz-calc;
+  padding: 20px;
+  margin: 1px auto;
   max-width: 705px;
+  
   
 
 }
