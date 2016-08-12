@@ -11,38 +11,14 @@
 
 .title{
   font-family : Helvetica;
-  color: #eee;
-  text-align : left;
-  background-color: #33BEBE;
-  border-radius: 2px;
-  padding-left:10px;
-  padding-top: 3px; 
-  padding-bottom: 3px;
-  margin:10px-auto;
-  
-  
-  
 }
 
 .description{
-  color : #787878 ;
-  font-family : Helvetica;
-  text-align : justify;
-  background-color : #f0f0f0;
-  border-style : none;
-  border-width: 30px -moz-calc;
-  padding: 20px;
-  margin: 1px auto;
-  max-width: 1024px;
-  float: center;
+ 
+  max-width: 706px;
   margin-left:322px
-  
-  
+ }
 
-}
-
-.screenshot{
+.image{
 	max-width: 460px;
-	float:left;
-  
 }
