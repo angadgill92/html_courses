@@ -1,9 +1,8 @@
-body {
-  background : teal;
-}
 .title{
   font-family : Helvetica;
+  font-color : white ;
   text-align : center;
+  background-color: #33BEBE;
   
   
 }
@@ -14,6 +13,15 @@ body {
   text-align : justify;
   background-color : #f0f0f0;
   border-style : none;
+  max-width: 705px;
   
 
+}
+
+.screenshot{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	max-width: 460px;
 }
