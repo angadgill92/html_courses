@@ -28,6 +28,8 @@
 }
 
 .col-4 {
+    padding: 30px;
+    text-align: justify;
     width: 33.33%
 }
 
