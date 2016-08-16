@@ -1,68 +1,48 @@
 * {
-    border: 1px solid red !important;
-}
-
-* {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+.pagename{
+  font-family: 'Merriweather', serif;
+  letter-spacing: 25px ;
+  text-shadow: 0px .5px 5px white;
+  text-align : center;
+ 
+  color : #e7ffec;
+}
+.header{
+  width: 100%;
+  position : fixed;
+  background-color : #003459;
+  box-shadow: 0px 0px 3px #00171f;
+}
+
+.grid{
+  
+}
+
 
 .row {
+    background-color:#d0cbbc;
     display: flex;
     flex-wrap: wrap;
     width: 100%;
 }
 
-.col-1 {
-    width: 8.33%
-}
-
-.col-2 {
-    width: 16.66%
-}
-
-.col-3 {
-    width: 25%
-}
 
 .col-4 {
-    padding: 30px;
+    
+    margin : 10 px;
+    padding: 20 px;
     text-align: justify;
-    width: 33.33%
+    width: 33.33%;
+    border-radius: px;
+   
 }
 
-.col-5 {
-    width: 41.66%
-}
-
-.col-6 {
-    width: 50%
-}
-
-.col-7 {
-    width: 58.33%
-}
-
-.col-8 {
-    width: 66.66%
-}
-
-.col-9 {
-    width: 75%
-}
-
-.col-10 {
-    width: 83.33%
-}
-
-.col-11 {
-    width: 91.66%
-}
-
-
-}
 .col-12 {
     width: 100%
+    
 }
